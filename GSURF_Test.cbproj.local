@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/25 21:43:13.000.930,=C:\Users\coppola\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019/10/25 21:43:16.000.320,=C:\Users\coppola\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019/10/25 21:43:46.000.039,C:\Users\coppola\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\coppola\Documents\Embarcadero\Studio\Projects\GSURF\TestTcpIp\Client.cpp</Transaction>
+    <Transaction>2019/10/25 21:43:46.000.039,C:\Users\coppola\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\coppola\Documents\Embarcadero\Studio\Projects\GSURF\TestTcpIp\Client.h</Transaction>
+    <Transaction>2019/10/25 21:43:46.000.039,C:\Users\coppola\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\coppola\Documents\Embarcadero\Studio\Projects\GSURF\TestTcpIp\Client.dfm</Transaction>
+    <Transaction>2019/10/25 21:44:02.000.101,C:\Users\coppola\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\coppola\Documents\Embarcadero\Studio\Projects\GSURF\TestTcpIp\GSURF_Client.h</Transaction>
+    <Transaction>2019/10/25 21:45:06.000.897,C:\Users\coppola\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\coppola\Documents\Embarcadero\Studio\Projects\GSURF_Test.cbproj</Transaction>
+    <Transaction>2019/10/25 21:49:55.000.375,C:\Users\coppola\Documents\Embarcadero\Studio\Projects\GSURF_Test.cbproj=C:\Users\coppola\Documents\Embarcadero\Studio\Projects\GSURF\TestTcpIp\GSURF_Test.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
