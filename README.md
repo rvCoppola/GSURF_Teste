@@ -1,13 +1,13 @@
 GSURF - Teste TCP/IP
 
-Este projeto tem o objetivo de demonstrar as aptidıes do programador Ricardo Villela Coppola na linguagem C++.
-O projeto È consistido de uma aplicaÁ„o servidora e uma aplicaÁ„o cliente.
-Estas se comunicam via TCP/IP usando o endereÁo local 127.0.0.1 e a porta 175.
-A aplicaÁ„o cliente deve montar uma express„o matem·tica simples usamdo as quatro operaÁıes b·sicas: soma(+), subtraÁ„o(-), miltiplicaÁ„o(*) e divis„o(/).
-As parcelas podem ser inteiras ou com ponto flutuante. N„o devem ser usados espaÁos entre as pareclas e os sinais das operaÁıes.
-Depois de montada a express„o desejada, esta pode ser transmitida aqo servidor via bot„o "Enviar".
-O servidor, ao receber a express„o, mostrar· a sua decomposiÁ„o e soluÁ„o, retornando apenas a ˙ltima ao cliente.
-Em caso de receber uma express„o inv·lida, o servidor enviar· uma mensagem destacando o tipo do erro e a sua posiÁ„o no texto da express„o recebida.
+Este projeto tem o objetivo de demonstrar as aptid√µes do programador Ricardo Villela Coppola na linguagem C++.
+O projeto √© consistido de uma aplica√ß√£o servidora e uma aplica√ß√£o cliente.
+Estas se comunicam via TCP/IP usando o endere√ßo local 127.0.0.1 e a porta 175.
+A aplica√ß√£o cliente deve montar uma express√£o matem√°tica simples usamdo as quatro opera√ß√µes b√°sicas: soma(+), subtra√ß√£o(-), miltiplica√ß√£o(*) e divis√£o(/).
+As parcelas podem ser inteiras ou com ponto flutuante. N√£o devem ser usados espa√ßos entre as pareclas e os sinais das opera√ß√µes.
+Depois de montada a express√£o desejada, esta pode ser transmitida aqo servidor via bot√£o "Enviar".
+O servidor, ao receber a express√£o, mostrar√° a sua decomposi√ß√£o e solu√ß√£o, retornando apenas a √∫ltima ao cliente.
+Em caso de receber uma express√£o inv√°lida, o servidor enviar√° uma mensagem destacando o tipo do erro e a sua posi√ß√£o no texto da express√£o recebida.
 
 This project is intended to serve as a demonstration of the programming abilities of Ricardo Villela Coppola in the C++ language.
 It consists of a server application and a client one. They communicate with each-other via TCP/IP using the address 127.0.0.1 and the 175 port.
@@ -17,4 +17,4 @@ After being mounted the desired expression can be transmitted to the server via 
 Upon receiving an expression the server application will show its decomposition and solution returning the later to the client.
 In case of an invalid expression the server will send a message highlighting the kind and position of the error in the received expression.
 
-P.S.: I apologize for the comments inside the code being made in Brazilian Portuguese, but the intention of the project is to serve as a demonstration of my abilities the assume a job position.
+P.S.: I apologize for having the comments inside the code written in Brazilian Portuguese, but the intention of the project is to serve as a demonstration of my abilities the assume a job position.
