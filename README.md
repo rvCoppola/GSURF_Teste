@@ -23,7 +23,7 @@ multiplication(*) and division(/).
 The operands can be integer or floating point values. The decimal divisor, if used, mustbe the '.' character. Spaces might NOT be
 used between the operator signals and the operands.
 After been mounted the desired expression can be transmitted to the server via the "Send" button.
-Upon receiving an expression the server application will show its decomposition and solution returning the later to the client.
+Upon receiving an expression the server application will show its decomposition and solution returning the latter to the client.
 In case of an invalid expression the server will send a message highlighting the kind and position of the error in the received
 expression. Multiplication an division have precedence over adition and subtraction, otherwise, the expressions are avaliated from
 left to write.
